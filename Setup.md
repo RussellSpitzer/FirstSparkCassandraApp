@@ -53,10 +53,9 @@ For more information on Cassandra and Data Layout
 Study more later!
 [Datastax Academy](https://academy.datastax.com/)
 
-#### Setup Spark and Spark Home
+#### Setup Spark
    
-   tar -xvf spark-2.2.1-bin-hadoop2.7.tgz
-
+    tar -xvf spark-2.2.1-bin-hadoop2.7.tgz
    
 
 #### Add Spark-Cassandra-Connector
