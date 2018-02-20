@@ -9,7 +9,7 @@
 [Download Apache Zeppelin 0.7.3](http://mirrors.gigenet.com/apache/zeppelin/zeppelin-0.7.3/zeppelin-0.7.3-bin-netinst.tgz)
 
 
-## Let's start by testing Zeppelin
+## Let's start by Setting up Cassandra
 
 ### Start up Cassandra
 
@@ -53,10 +53,9 @@ For more information on Cassandra and Data Layout
 Study more later!
 [Datastax Academy](https://academy.datastax.com/)
 
-#### Setup Spark and Spark Home
+#### Setup Spark
    
-   tar -xvf spark-2.2.1-bin-hadoop2.7.tgz
-
+    tar -xvf spark-2.2.1-bin-hadoop2.7.tgz
    
 
 #### Add Spark-Cassandra-Connector
