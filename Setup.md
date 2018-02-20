@@ -9,7 +9,7 @@
 [Download Apache Zeppelin 0.7.3](http://mirrors.gigenet.com/apache/zeppelin/zeppelin-0.7.3/zeppelin-0.7.3-bin-netinst.tgz)
 
 
-## Let's start by testing Zeppelin
+## Let's start by Setting up Cassandra
 
 ### Start up Cassandra
 
