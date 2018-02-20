@@ -37,3 +37,8 @@ Important for us
 
 
 [Dataframe Notebook](notebooks/Spark%20Cassandra%20Note.json)
+
+
+### Zeppelin Challenges
+
+[Challenges Notebook](notebooks/Spark%20Cassandra%20Challenges.json)
