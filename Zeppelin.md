@@ -4,14 +4,18 @@
 
     tar -xvf zeppelin-0.7.3-bin-netinst.tgz
     
-Set SPARK_HOME for Zeppelin to our spark directory
-Edit zeppelin-0.7.3-bin-netinst/conf/zeppelin-env.sh
-    
-    export SPARK_HOME="/Users/russellspitzer/SparkInstalls/spark-2.2.1-bin-hadoop2.7" ## Replace this with your install directory
 
     
 #### Start Zeppelin   
+
+#### DSE
+    ./bin/dse exec ./zeppelin-0.7.3-bin-netinst/bin/zeppelin.sh
     
+#### OSS
+    Set SPARK_HOME for Zeppelin to our spark directory
+    Edit zeppelin-0.7.3-bin-netinst/conf/zeppelin-env.sh
+    
+    export SPARK_HOME="/Users/russellspitzer/SparkInstalls/spark-2.2.1-bin-hadoop2.7" ## Replace this with your install directory
     ./zeppelin-0.7.3-bin-netinst/bin/zeppelin.sh
     
 ### Zeppelin Home Screen
