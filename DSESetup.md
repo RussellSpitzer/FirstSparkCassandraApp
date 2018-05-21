@@ -11,7 +11,7 @@
     tar -xvf tar -xvf dse-6.0.0-bin.tar.gz
     cd dse-6.0.0
     
-### Turn on AOSS
+### Turn on AOSS in DSE.yaml
     
     # AlwaysOn SQL options have dependence on workpool setting of resource_manager_options. Set workpool configuration if you
     # enable alwayson_sql_options.
