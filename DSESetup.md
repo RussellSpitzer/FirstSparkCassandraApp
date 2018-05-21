@@ -22,7 +22,7 @@
 
 ### Start up DSE
 
-    ./bin/dse -k -g
+    ./bin/dse cassandra -k -g
     
 ### Test out our DSE Connection
 
